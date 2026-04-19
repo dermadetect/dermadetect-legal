@@ -4,7 +4,8 @@ Static content served at **https://privacy.dermadetect.com** via GitHub Pages.
 
 ## What's here
 
-- `index.html` — DermaDetect privacy policy (public, linked from the mobile app store listings)
+- `index.html` — DermaDetect privacy policy at https://privacy.dermadetect.com/
+- `account-deletion/index.html` — account deletion instructions at https://privacy.dermadetect.com/account-deletion/ (required by Google Play)
 - `CNAME` — GitHub Pages custom domain binding
 
 ## How it's served
